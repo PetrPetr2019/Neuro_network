@@ -9,9 +9,10 @@ namespace Neuro_network
             // Обучение
             //decimal km = 100;
             //var miles = 62.1371m;
+             //decimal 33;
             const decimal usd = 1;
             const decimal rub = 74.59m;
-            var neuron = new Neuron(); 
+            var neuron = new Neuron();
 
             var i = 0;
             do
